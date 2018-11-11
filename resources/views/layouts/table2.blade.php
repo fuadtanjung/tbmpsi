@@ -3,10 +3,6 @@
 <head>
     <link href="New folder/css/bootstrap.min.css" rel="stylesheet" />
      
-     
-
-
-      
 </head>
 
 
